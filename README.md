@@ -24,4 +24,6 @@ Postman
 Check it out! 
 :date: https://cibellem.github.io/note-taker/.
 
+![ notetaker](notetaker.png) <br>
+
 
